@@ -1,0 +1,69 @@
+body {
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#home {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+nav {
+  z-index: 1;
+}
+
+.home {
+}
+
+.icons i {
+  font-size: 20px;
+  padding-left: 10px;
+  color: #10166e;
+}
+
+#about .me .deskripsi {
+}
+
+#about {
+  padding-top: 40px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#projects {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#contact .container .contact {
+  margin-bottom: 40px;
+}
+
+#contact {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 50px;
+}
